@@ -11,3 +11,5 @@
 ## [4.- Casos prácticos.](md/casos-practicos.md)
 
 ## 5.- Referencias.
+
+[instalacion-nginx](https://friendhosting.net/es/blog/install-nginx-on-debian-11.php)
